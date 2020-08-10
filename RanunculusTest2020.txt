@@ -1,0 +1,11 @@
+COLLECTEUR	GENRE	ESPECE	IND	FLL-MUL	LON-ENT	RAP-ME	PED-LON	ENT-PED	RAP-PE	PET-LON	FRU-NBR	FRU-LON	DIA-TIG
+Cousturier	Ranunculus	test-pelt	1	4	6	0.67	7	4	1.75	7	32	1.8	3
+Jeanmonod-1479	Ranunculus	test-pelt	2	3	1	3	2	1	2	6	32	1.7	2
+Briquet-Cateraggio	Ranunculus	test-pelt	3	3	1.5	2	2	1.5	1.33	4	34	1.5	1
+Lambinon-92-21	Ranunculus	test-pelt	4	2.5	2.5	1	3	2	1.5	5	18	1.5	2.5
+Jeanmonod-8225	Ranunculus	test-pen	1	6	8	0.75	5.5	4	1.38	7	30	1.9	3
+Lambinon-76-553bis	Ranunculus	test-pen	2	6	6	1	9	10	0.9	7	32	1.4	1.5
+Litardière-1930	Ranunculus	test-pen	3	6	4	1.5	4	4	1	5	30	1.7	3
+Aylies3	Ranunculus	test-tricho	1	6	4	1.5	2	4	0.5	4	28	1.7	2
+Jeanmonod-8226	Ranunculus	test-tricho	2	6	1.5	4	2.5	1.5	1.67	6	30	2.5	2.5
+Thiébaud-04970	Ranunculus	test-tricho	3	2.5	4	0.63	2	1	2	4.5	16	1.5	1
